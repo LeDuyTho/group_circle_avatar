@@ -3,7 +3,7 @@
 group_circle_avatar
 
 # Usage:
-`
+```dart
   List<String> images = [
     'assets/midu.jpg',
     'assets/midu.jpg',
@@ -29,4 +29,4 @@ Padding(
                 imageBuilder: (path) => AssetImage(path),
               ),
             ),
-`
+```

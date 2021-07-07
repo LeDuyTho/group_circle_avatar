@@ -16,7 +16,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Usage:
-`
+```dart
   List<String> images = [
     'assets/midu.jpg',
     'assets/midu.jpg',
@@ -42,4 +42,4 @@ Padding(
                 imageBuilder: (path) => AssetImage(path),
               ),
             ),
-`
+```
